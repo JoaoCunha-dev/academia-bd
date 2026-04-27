@@ -35,8 +35,17 @@ python src/interface_academia.py
 - Usuario: admin | Senha: 1234
 - Usuario: professor | Senha: senha
 
-## Prints
-(adicione os prints aqui)
+## Prints da Aplicacao
 
-## Video
-(adicione o link do video aqui)
+### Tela de Login
+![Login](prints/login.png)
+
+### Menu Principal
+![Menu](prints/menu.png)
+
+### Relatorio LEFT JOIN
+![LEFT JOIN](prints/left_join.png)
+
+### Relatorio INNER JOIN
+![INNER JOIN](prints/inner_join.png)
+

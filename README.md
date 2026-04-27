@@ -38,14 +38,14 @@ python src/interface_academia.py
 ## Prints da Aplicacao
 
 ### Tela de Login
-![Login](prints/login.png)
+![Login](Captura%20de%20tela%202026-04-26%20213143.png)
 
-### Menu Principal
-![Menu](prints/menu.png)
+### Menu Principal - Listar Alunos
+![Menu](Captura%20de%20tela%202026-04-26%20213548.png)
 
 ### Relatorio LEFT JOIN
-![LEFT JOIN](prints/left_join.png)
+![LEFT JOIN](Captura%20de%20tela%202026-04-26%20213638.png)
 
 ### Relatorio INNER JOIN
-![INNER JOIN](prints/inner_join.png)
+![INNER JOIN](Captura%20de%20tela%202026-04-26%20213648.png)
 

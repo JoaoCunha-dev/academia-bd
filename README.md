@@ -48,3 +48,6 @@ python src/interface_academia.py
 
 ### Relatorio INNER JOIN
 ![INNER JOIN](prints/inner_join.png)
+
+### VIDEO
+https://drive.google.com/file/d/1hCGCir0lNg5IA4O3dd0UIChhcslU3g9d/view?usp=sharing
